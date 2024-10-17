@@ -4,6 +4,6 @@ import eslint from "vite-plugin-eslint";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://pablomz-mi.github.io/react-rick-and-morty/",
+  base: "https://pablomz-mi.github.io/react-rick-and-morty-pmi/",
   plugins: [react(), eslint()],
 });
